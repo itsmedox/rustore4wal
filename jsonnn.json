@@ -1,0 +1,72 @@
+{
+  "ADS": {
+
+
+    "networkAd": "xx",
+   
+    "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+    "inter_max": "37c0fd7e2939a3be",
+    "max_banner": "13482be8f771efc7",
+    "Native_max": "76d87171404718ed",
+
+    "startapp_id": "139480955",
+
+    "show_cpa": false,
+    "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+    "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+    "cpa_button_text": "Get It Now!",
+  
+    
+
+    "Image_cpaLink" : "https://iili.io/HiJCjwl.png",
+    "LinkCpa": "https://www.google.com/",
+
+    "ImageUrl_banner": "https://iili.io/HiJCjwl.png",
+    "LinkCpa_banner": "https://www.google.com/",
+    "ImageUrl_banner1": "https://iili.io/HiJCjwl.png",
+    "LinkCpa_banner1": "https://www.google.com/",
+    "ImageUrl_banner2": "https://iili.io/HiJCjwl.png",
+    "LinkCpa_banner2": "https://www.google.com/",
+
+    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
+    "link_exit": "https://www.google.com/",
+
+    "privacy" : "https://policies.google.com/privacy?hl=en-US",
+    "url_exit": "https://www.google.com/",
+    "url_bottom_coins": "https://www.google.com/",
+
+    "Text_tips1": "Welcome ESKIMO APP",
+    "Text_tips2": "Welcome nATURE ESKIMO",
+    "Text_tips3": "Welcome NATURE BLANC",
+    "Text_tips4": "blanc neige",
+    "Text_tips5": "Arctic Survival",
+    "Text_tips6": "best  nature capturs ",
+    "Text_tips7": "Eskimo history",
+    "Text_tips8": "Welcome fascinating wildlife eskimo",
+
+
+    "Text_title1": "Discover the fascinating wildlife of the Eskimo region with stunning imagery and detailed information",
+    "Text_title2": "Learn essential skills and tips for surviving in the challenging Arctic environment",
+    "Text_title3": "Welcome fascinating wildlife eskimo",
+    "Text_title4": "eskimo has a huge history ",
+    "Text_title5": "rack and predict mesmerizing Northern Lights displays",
+    "Text_title6": "immerse yourself in the tranquil ambiance in eskimo people",
+    "Text_title7": "how kind is eskimo people?",
+    "Text_title8": "Eskimo in history and place",
+
+
+    "Text_buttonCoins" : "Male ",
+    "Text_buttonTips" : "Women",
+    "Text_buttonmoins" : "- 18",
+    "Text_buttonplus" : "+ 18",
+
+
+    "CpaAds" : "True",
+
+    "Click_inter": "0"
+
+  }
+}
